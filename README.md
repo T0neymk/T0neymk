@@ -1,7 +1,8 @@
-- 👋 Hi, I’m @T0neymk
+- 👋 Hi, I’m @T0ney
+- I am from Kenya
 - 👀 I’m interested in Cyber Security
 - 🌱 I’m currently learning Computer Science
-- 💞️ I’m looking to collaborate on ...
+
 - 📫 How to reach me . Just email me on jumanewton20@gmail.com
 
 <!---
