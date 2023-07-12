@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @T0ney
+- 👋 Hi, I’m T0ney
 - I am from Kenya
 - 👀 I’m interested in Cyber Security
 - 🌱 I’m currently learning Computer Science
